@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"我是一个菠菜,大菠菜,很大波的菜鸟");
 }
 
 - (void)didReceiveMemoryWarning {
